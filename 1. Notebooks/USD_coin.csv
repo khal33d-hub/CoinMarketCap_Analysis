@@ -1,0 +1,13 @@
+,source,pairs,price,plus_2_Depth,minus_2_Depth,volume,volume_perc,confidence,liquidity,updated
+0,Binance,USDC/USDT,$1.00,"$33,912,931.66","$9,654,717.91","$199,687,097",6.33%,High,983,Recently
+1,Binance,BTC/USDC,$1,"$2,942,350.36","$1,714,302.51","$83,633,683",2.65%,High,656,Recently
+2,Binance,USDC/BUSD,$1,"$5,795,698.50","$5,151,305.43","$67,866,566",2.15%,High,984,Recently
+3,Binance,ETH/USDC,$1,"$1,671,912.63","$1,208,167.94","$45,849,966",1.45%,High,508,Recently
+4,Uniswap (V2),USDC/WETH,$0.9985,-,-,"$40,198,255",1.27%,High,916,Recently
+5,Coinbase Exchange,USDC/EUR,$0.997,"$1,762,362.21","$626,598.36","$37,631,285",1.19%,High,272,Recently
+6,Uniswap (V2),RAD/USDC,$0.9999,-,-,"$32,376,960",1.03%,High,-,Recently
+7,Coinbase Exchange,BTC/USDC,$1,"$2,037,882.61","$1,859,489.57","$31,532,443",1.00%,High,632,Recently
+8,Coinbase Exchange,ETH/USDC,$1,"$2,452,428.87","$2,750,949.15","$26,475,428",0.84%,High,506,Recently
+9,Kraken,USDC/USD,$1.00,"$19,727,584.00","$3,456,481.56","$22,714,392",0.72%,High,900,Recently
+10,Coinbase Exchange,USDT/USDC,$0.9999,"$472,972.10","$626,999.09","$12,914,106",0.41%,High,845,Recently
+11,Kraken,USDC/EUR,$0.9987,"$1,297,166.66","$1,031,438.70","$12,109,947",0.38%,High,678,Recently
