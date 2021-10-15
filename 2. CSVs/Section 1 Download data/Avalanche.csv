@@ -1,0 +1,15 @@
+,source,pairs,price,plus_2_Depth,minus_2_Depth,volume,volume_perc,confidence,liquidity,updated
+0,Binance,AVAX/USDT,$61.49,"$1,551,112.54","$1,015,686.87","$291,040,833",32.74%,High,507,Recently
+1,Binance,AVAX/TRY,$61.28,"$465,869.11","$209,208.59","$53,142,668",5.98%,High,646,Recently
+2,Binance,AVAX/BTC,$61.40,"$468,943.43","$606,895.15","$44,896,178",5.05%,High,854,Recently
+3,Binance,AVAX/BUSD,$61.51,"$375,441.84","$269,882.62","$44,654,931",5.02%,High,568,Recently
+4,Gate.io,AVAX/USDT,$61.50,"$390,769.00","$686,048.24","$35,232,717",3.96%,High,397,Recently
+5,Coinbase Exchange,AVAX/USD,$61.60,"$670,629.04","$531,428.86","$25,667,416",2.89%,High,322,Recently
+6,Huobi Global,AVAX/USDT,$61.50,"$393,427.34","$338,363.25","$25,058,667",2.82%,Low,347,Recently
+7,KuCoin,AVAX/USDT,$61.54,"$555,911.97","$389,738.66","$18,872,839",2.12%,High,290,Recently
+8,Bitfinex,AVAX/USD,$61.50,-,-,"$3,343,955",0.38%,N/A,-,Recently
+9,Binance,AVAX/EUR,$60.89,"$99,002.55","$70,730.86","$3,106,721",0.35%,High,904,Recently
+10,KuCoin,AVAX/BTC,$61.36,"$72,727.71","$103,625.89","$2,171,887",0.24%,High,201,Recently
+11,Bitfinex,AVAX/UST,$61.49,-,-,"$1,717,028",0.19%,N/A,-,Recently
+12,Binance,AVAX/BNB,$61.56,"$24,188.99","$44,850.78","$1,632,986",0.18%,High,714,Recently
+13,Coinbase Exchange,AVAX/EUR,$61.20,"$80,132.15","$93,870.35","$1,064,686",0.12%,High,180,Recently
